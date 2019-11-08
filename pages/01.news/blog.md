@@ -15,4 +15,4 @@ feed:
     limit: 10
 ---
 
-News are here guys!
+News are here guys!!
