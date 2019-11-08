@@ -23,8 +23,8 @@ git:
   author: gituser
   message: '(Grav GitSync) Automatic Commit'
   name: GitSync
-  email: git-sync@trilby.media
+  email: creativecodingdev@gmail.com
   bin: git
 logging: false
-password: gitsync-def502007d9aae01c9b2cd3daef8ad1a104b0fc4783dc021c61ad17fbc4772ea19a95ce0cdddab1f3900bedf7755f0c0ef2eb2e7054f5c1ef053ec6cff849931254a48fffde6eac853da49378c2d77f0f2f0d08a7458503f26c8340b2c96c4dcb6cd74e9f9d98501
+password: gitsync-def502006cc841b07818ddec3dad06f7055e69675d0d4d543af018cf22f2cdc1c3be1742f09b7215ec91d774bcb8ca03d541dfcc8ec5fd4b428e3ef07e5d31d4b2082ad9d28cd3e257320936f2d5cc4929645461e32aed6f245541a4efa75e6d0b743225b52e88bf
 webhook: /_git-sync-9266674ae056
