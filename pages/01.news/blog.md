@@ -1,6 +1,7 @@
 ---
-title: Polska
-visible: true
+title: News
+published: true
+hero_classes: 'text-light overlay-dark-gradient'
 content:
     items:
         - '@self.children'
@@ -10,6 +11,8 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+feed:
+    limit: 10
 ---
 
-Raporty o incydentach z Polski.
+News are here guys!

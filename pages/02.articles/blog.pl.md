@@ -1,5 +1,5 @@
 ---
-title: Raporty
+title: Articles
 blog_url: /reports
 show_sidebar: true
 content:
@@ -14,6 +14,8 @@ content:
     filter:
         published: true
         type: item
+feed:
+    limit: 10
 ---
 
-Lista raportów napisanych przez naszych ekspertów.
+Our own articles.

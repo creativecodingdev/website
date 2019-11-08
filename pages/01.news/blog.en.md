@@ -1,6 +1,6 @@
 ---
-title: Świat
-visible: true
+title: News
+published: true
 content:
     items:
         - '@self.children'
@@ -10,6 +10,8 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+feed:
+    limit: 10
 ---
 
-Raporty ze świata.
+News are here

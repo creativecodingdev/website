@@ -1,13 +1,12 @@
-title: 'UAP Report'
-default_lang: pl
+title: 'Creative Coding'
 author:
-  name: 'Joe Bloggs'
-  email: joe@example.com
+  name: Marcin
+  email: marcin@creativecoding.dev
 taxonomies:
   - category
   - tag
 metadata:
-  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+  description: 'Creative coding, TouchDesigner, etc.'
 summary:
   enabled: true
   format: short
