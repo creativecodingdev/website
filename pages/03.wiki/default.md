@@ -7,7 +7,10 @@ media_order: unity3d.jpeg
 
 This is our curated wiki page, it includes software and othe resources that have been tested and reviewed by us. If you want to explore the topic more, check out the great [github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) page.
 
-![](unity3d.jpeg){.bbbbbbbbbb}
+<div style="float: left">
+![](unity3d.jpeg)
+</div>
+siema
 
 
 ## Game Engines
