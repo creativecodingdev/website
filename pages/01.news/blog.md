@@ -15,4 +15,4 @@ feed:
     limit: 10
 ---
 
-Creative Coding information center
+Creative Coding news center
