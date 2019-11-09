@@ -6,6 +6,23 @@ title: Wiki
 
 This is our curated wiki page, it includes software and othe resources that have been tested and reviewed by us. If you want to explore the topic more, check out the great [github.com/terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) page.
 
+<table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+    <th>Savings for holiday!</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+    <td rowspan="2">$50</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
+
 ## Game Engines
 
 * Unity
