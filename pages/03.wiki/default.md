@@ -10,14 +10,26 @@ This is our curated wiki page, it includes software and othe resources that have
 <tr>
   <td rowspan="2">$50</td>
   <td>Power</td>
-  <td>Community</td>
-  <td>Creatives</td>
-  <td>Programmers</td>
+  <td>Awesome 🤩</td>
 </tr>
 <tr>
+  <td rowspan="2">$50</td>
+  <td>Power</td>
   <td>Awesome 🤩</td>
+</tr>
+<tr>
+  <td rowspan="2">$50</td>
+  <td>Power</td>
   <td>Awesome 🤩</td>
-  <td>Good 😀</td>
+</tr>
+ <tr>
+  <td rowspan="2">$50</td>
+  <td>Power</td>
+  <td>Awesome 🤩</td>
+</tr>
+<tr>
+  <td rowspan="2">$50</td>
+  <td>Power</td>
   <td>Awesome 🤩</td>
 </tr>
 </table>
