@@ -1,5 +1,6 @@
 ---
 title: 'Hello world!'
+media_order: 'cc_blob.jpg,cc_blob.jpg'
 published: true
 ---
 
