@@ -24,10 +24,6 @@ This is our curated wiki page, it includes software and othe resources that have
   <td>Power</td>
   <td>Awesome 🤩</td>
 </tr>
-<tr>
-  <td>Power</td>
-  <td>Awesome 🤩</td>
-</tr>
 </table>
 
 ## Game Engines
