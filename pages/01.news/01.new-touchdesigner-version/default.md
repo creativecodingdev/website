@@ -1,5 +1,6 @@
 ---
-title: 'New TouchDesigner version'
+title: 'October summary'
 ---
 
-Helloszki
+Notch released with path-tracing support for non-realtime realistic renders: https://medium.com/notchblog/path-tracing-explained-7cf629927c4e
+
