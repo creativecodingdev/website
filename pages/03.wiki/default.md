@@ -9,12 +9,16 @@ This is our curated wiki page, it includes software and othe resources that have
 <table>
 <tr>
   <td rowspan="2">$50</td>
-  <td>January</td>
-  <td>$100</td>
+  <td>Power</td>
+  <td>Community</td>
+  <td>Creatives</td>
+  <td>Programmers</td>
 </tr>
 <tr>
-  <td>February</td>
-  <td>$80</td>
+  <td>Awesome 🤩</td>
+  <td>Awesome 🤩</td>
+  <td>Good 😀</td>
+  <td>Awesome 🤩</td>
 </tr>
 </table>
 
@@ -26,7 +30,7 @@ This is our curated wiki page, it includes software and othe resources that have
 | ------ | ----------- |
 | Power | Awesome 🤩 |
 | Resources | Awesome 🤩 |
-| Creatives | Good 😀 |
+| Creatives | asd |
 | Programmers | Awesome 🤩 |  
 
 Unity is one of most popular game engines. It has a huge community, assets shop and is targeted mostyly to indie and smaller productions, for desktop and mobile platforms. 
