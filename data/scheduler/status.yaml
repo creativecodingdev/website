@@ -1,1 +1,14 @@
-{  }
+git-sync:
+  state: failure
+  last-run: 1573254002
+  error: null
+cache-clear:
+  state: success
+  last-run: 1573268414
+default-site-backup:
+  state: success
+  last-run: 1573268414
+cache-purge:
+  state: failure
+  last-run: 1573272002
+  error: null
