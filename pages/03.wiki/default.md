@@ -8,9 +8,10 @@ This is our curated wiki page, it includes software and othe resources that have
 
 <table>
   <tr>
+          <td rowspan="2">$50</td>
     <td>January</td>
     <td>$100</td>
-    <td rowspan="2">$50</td>
+
   </tr>
   <tr>
     <td>February</td>
