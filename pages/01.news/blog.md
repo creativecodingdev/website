@@ -15,4 +15,4 @@ feed:
     limit: 10
 ---
 
-News are here guys!!
+Creative Coding information center
