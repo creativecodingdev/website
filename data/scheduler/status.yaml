@@ -1,13 +1,14 @@
 git-sync:
-  state: success
-  last-run: 1575720007
+  state: failure
+  last-run: 1575759602
+  error: null
 cache-clear:
   state: success
-  last-run: 1575687610
+  last-run: 1575774012
 default-site-backup:
   state: success
-  last-run: 1575687610
+  last-run: 1575774012
 cache-purge:
   state: failure
-  last-run: 1575691202
+  last-run: 1575777601
   error: null
