@@ -77,3 +77,10 @@ A worthy successor to QuartzComposer.
 | Resources | Meh 😐 |
 | Creatives | Awesome 🤩 |
 | Programmers | Meh 😐 |  
+
+## Procedural terrain generators
+
+* Vue https://info.e-onsoftware.com/home
+* World Creator https://www.world-creator.com/
+* World Machine https://www.world-machine.com/
+* Terragen https://planetside.co.uk/
