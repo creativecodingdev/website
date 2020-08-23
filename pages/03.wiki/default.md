@@ -83,7 +83,7 @@ A worthy successor to QuartzComposer.
 Commercial:
 
 * Instant Terra https://www.wysilab.com/
-  * node based, new but promising
+  * node based, new but promising, easy to learn but has slower workflow
 * Vue https://info.e-onsoftware.com/home
 * World Creator https://www.world-creator.com/
   * easy to use, GPU based, good for artists, lacking some features, large amount of youtube tutorials
