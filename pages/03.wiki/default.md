@@ -80,6 +80,8 @@ A worthy successor to QuartzComposer.
 
 ## Procedural terrain generators
 
+Commercial:
+
 * Vue https://info.e-onsoftware.com/home
 * World Creator https://www.world-creator.com/
 * World Machine https://www.world-machine.com/
@@ -87,6 +89,9 @@ A worthy successor to QuartzComposer.
 * QuadSpinner Gaea https://quadspinner.com/
     * http://www.cgchannel.com/2018/11/quadspinner-open-sources-entire-vue-portfolio/
 
+Free:
+
+* TerreSculptoe http://www.demenzunmedia.com/home/terresculptor/
 Also check:
 
 * Houdini - general procedural powerhouse
