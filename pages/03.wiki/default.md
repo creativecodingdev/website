@@ -82,25 +82,25 @@ A worthy successor to QuartzComposer.
 
 Commercial:
 
-* Instant Terra https://www.wysilab.com/
-  * node based, new but promising, easy to learn but has slower workflow
-* Vue https://info.e-onsoftware.com/home
-* World Creator https://www.world-creator.com/
+
+* [World Creator](https://www.world-creator.com/)
   * easy to use, GPU based, good for artists, lacking some features, large amount of youtube tutorials
-* World Machine https://www.world-machine.com/
-  * very powerful, a bit stalled in development, CPU based, hard to learn
-* Terragen https://planetside.co.uk/
-* QuadSpinner Gaea https://quadspinner.com/
-  * http://www.cgchannel.com/2018/11/quadspinner-open-sources-entire-vue-portfolio/
+* [QuadSpinner Gaea](https://quadspinner.com/)
   * looks very promising, easy to use and powerful, but is a newcomer, lacking features
+* [Instant Terra](https://www.wysilab.com/)
+  * node based, new but promising, easy to learn but has slower workflow
+* [World Machine](https://www.world-machine.com/)
+  * very powerful, stalled in development, CPU based, hard to learn
+* [Vue](https://info.e-onsoftware.com/home) 
+* [Terragen](https://planetside.co.uk/) 
 
 Free:
 
-* TerreSculptoe http://www.demenzunmedia.com/home/terresculptor/
+* [TerreSculptor](http://www.demenzunmedia.com/home/terresculptor/) 
+
 Also check:
 
 * Houdini - general procedural powerhouse
-
 
 
 ## Communities
