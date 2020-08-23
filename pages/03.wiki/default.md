@@ -84,6 +84,7 @@ A worthy successor to QuartzComposer.
 * World Creator https://www.world-creator.com/
 * World Machine https://www.world-machine.com/
 * Terragen https://planetside.co.uk/
+* QuadSpinner Gaea https://quadspinner.com/
 
 Also check:
 
