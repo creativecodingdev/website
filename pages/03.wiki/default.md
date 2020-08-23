@@ -85,6 +85,7 @@ A worthy successor to QuartzComposer.
 * World Machine https://www.world-machine.com/
 * Terragen https://planetside.co.uk/
 * QuadSpinner Gaea https://quadspinner.com/
+    * http://www.cgchannel.com/2018/11/quadspinner-open-sources-entire-vue-portfolio/
 
 Also check:
 
